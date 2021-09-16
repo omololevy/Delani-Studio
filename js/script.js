@@ -6,7 +6,6 @@ $('.main').click(function () {
 //alerting to the client
 $("button").click(function (pop) {
   var client = document.getElementById('nameDetail').value;
-  swal();
   swal({
     title: "Successful!",
     text:  'Dear ' + client + ', our very esteemed client, we have successfully received your message. ' + ' Feel free to reach out to us anytime.',
