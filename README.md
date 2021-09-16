@@ -12,7 +12,6 @@ This is a project that details what Delani Studio does and their works. It also 
 * Clone the program from [Online repo](https://github.com/omololevy/Delani-Studio)
 * Click on the green button to clone or download
 
-## Behavior Driven Development
 ## Setup/Installation Requirements
 
 Install a text-editor preferably VScode for writing the HTML, CSS, JavaScript, and a README document.
@@ -29,8 +28,8 @@ The mail chip is quite an issue to implement but this should be updated as soon 
 * Javascript
 
 ## Support and contact details
-contact me @ omololevy@gmail.com
+Contact me @omololevy@gmail.com
 ### License
-The project is under[MIT license](https://github.com/omololevy/Delani-Studio/blob/master/LICENSE)
+The project is under [MIT license](https://github.com/omololevy/Delani-Studio/blob/master/LICENSE)
 Copyright &copy; 2021.All rigths reservedg
   
